@@ -1,4 +1,26 @@
 {
-  "livros": [],
+  "livros": [
+    {
+      "editora": "",
+      "categoria": "",
+      "autor": "",
+      "nome": "",
+      "id": 1
+    },
+    {
+      "editora": "zxc",
+      "categoria": "Didático",
+      "autor": "qwe",
+      "nome": "asd",
+      "id": 2
+    },
+    {
+      "editora": "zxc",
+      "categoria": "Didático",
+      "autor": "qwe",
+      "nome": "asd",
+      "id": 3
+    }
+  ],
   "categorias": []
 }
