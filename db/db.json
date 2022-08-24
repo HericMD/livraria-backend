@@ -8,19 +8,41 @@
       "id": 1
     },
     {
-      "editora": "zxc",
-      "categoria": "Didático",
-      "autor": "qwe",
-      "nome": "asd",
+      "editora": "asd",
+      "categoria": "",
+      "autor": "aqwe",
+      "nome": "zxcq",
       "id": 2
     },
     {
-      "editora": "zxc",
-      "categoria": "Didático",
-      "autor": "qwe",
-      "nome": "asd",
+      "editora": "asd",
+      "categoria": "Fantasia",
+      "autor": "aqwe",
+      "nome": "zxcq",
       "id": 3
+    },
+    {
+      "editora": "",
+      "categoria": "",
+      "autor": "",
+      "nome": "",
+      "id": 4
+    },
+    {
+      "editora": "",
+      "categoria": "Fantasia",
+      "autor": "",
+      "nome": "",
+      "id": 5
     }
   ],
-  "categorias": []
+  "categorias": [
+    {
+      "id": 1
+    },
+    {
+      "nome": "asd",
+      "id": 2
+    }
+  ]
 }
