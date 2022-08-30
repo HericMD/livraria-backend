@@ -38,10 +38,32 @@
   ],
   "categorias": [
     {
+      "nome": "sdg",
       "id": 1
     },
     {
-      "nome": "asd",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "aasd",
+      "id": 14
+    },
+    {
+      "nome": "shueisha",
+      "id": 15
+    }
+  ],
+  "autores": [
+    {
+      "id": 1
+    },
+    {
+      "nome": "oda",
       "id": 2
     }
   ]
