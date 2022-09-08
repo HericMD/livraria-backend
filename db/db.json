@@ -6,65 +6,21 @@
       "autor": "",
       "nome": "",
       "id": 1
-    },
-    {
-      "editora": "asd",
-      "categoria": "",
-      "autor": "aqwe",
-      "nome": "zxcq",
-      "id": 2
-    },
-    {
-      "editora": "asd",
-      "categoria": "Fantasia",
-      "autor": "aqwe",
-      "nome": "zxcq",
-      "id": 3
-    },
-    {
-      "editora": "",
-      "categoria": "",
-      "autor": "",
-      "nome": "",
-      "id": 4
-    },
-    {
-      "editora": "",
-      "categoria": "Fantasia",
-      "autor": "",
-      "nome": "",
-      "id": 5
     }
   ],
   "categorias": [
     {
-      "nome": "sdg",
       "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
     }
   ],
   "editoras": [
     {
-      "nome": "aasd",
-      "id": 14
-    },
-    {
-      "nome": "shueisha",
-      "id": 15
+      "id": 1
     }
   ],
   "autores": [
     {
-      "id": 1
-    },
-    {
-      "nome": "oda",
-      "id": 2
+      "id": 3
     }
   ]
 }
